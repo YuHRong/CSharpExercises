@@ -15,6 +15,3 @@ while (true)
 Console.WriteLine($"恭喜你，猜对了！答案是 {value}。");
 Console.WriteLine("按任意键退出...");
 Console.ReadKey(true);
-{
-
-}
